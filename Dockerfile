@@ -1,2 +1,2 @@
-FROM elasticsearch:2.4
+FROM elasticsearch:5.4
 RUN plugin install analysis-icu
